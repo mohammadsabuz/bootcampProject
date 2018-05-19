@@ -20,16 +20,16 @@
       <![CDATA[clicked Submit]]>
     </line>
   </reporter-output>
-  <suite name="Amazon Automation Script " duration-ms="15888" started-at="2018-05-19T15:35:47Z" finished-at="2018-05-19T15:36:03Z">
+  <suite name="Amazon Automation Script " duration-ms="17024" started-at="2018-05-19T16:02:15Z" finished-at="2018-05-19T16:02:32Z">
     <groups>
     </groups>
-    <test name="Amazon" duration-ms="15888" started-at="2018-05-19T15:35:47Z" finished-at="2018-05-19T15:36:03Z">
+    <test name="Amazon" duration-ms="17024" started-at="2018-05-19T16:02:15Z" finished-at="2018-05-19T16:02:32Z">
       <class name="testAmazon.LoginAmazon">
-        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="extentSetup" is-config="true" duration-ms="521" started-at="2018-05-19T15:35:46Z" finished-at="2018-05-19T15:35:47Z">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="extentSetup" is-config="true" duration-ms="259" started-at="2018-05-19T16:02:15Z" finished-at="2018-05-19T16:02:15Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@5b1ebf56]]>
+                <![CDATA[org.testng.TestRunner@dbd8e44]]>
               </value>
             </param>
           </params>
@@ -39,7 +39,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="setUp" is-config="true" duration-ms="10361" started-at="2018-05-19T15:35:47Z" finished-at="2018-05-19T15:35:57Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="setUp" is-config="true" duration-ms="10107" started-at="2018-05-19T16:02:15Z" finished-at="2018-05-19T16:02:25Z">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="startExtent" is-config="true" duration-ms="9" started-at="2018-05-19T15:35:57Z" finished-at="2018-05-19T15:35:57Z">
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="startExtent" is-config="true" duration-ms="8" started-at="2018-05-19T16:02:25Z" finished-at="2018-05-19T16:02:25Z">
           <params>
             <param index="0">
               <value>
@@ -91,7 +91,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="PASS" signature="loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="loginAmazon" duration-ms="4105" started-at="2018-05-19T15:35:57Z" finished-at="2018-05-19T15:36:02Z">
+        <test-method status="PASS" signature="loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="loginAmazon" duration-ms="4755" started-at="2018-05-19T16:02:25Z" finished-at="2018-05-19T16:02:30Z">
           <reporter-output>
             <line>
               <![CDATA[clicked Signed]]>
@@ -110,44 +110,44 @@
             </line>
           </reporter-output>
         </test-method> <!-- loginAmazon -->
-        <test-method status="PASS" signature="afterClass(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-05-19T15:36:02Z" finished-at="2018-05-19T15:36:02Z">
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="afterEachTestMethod" is-config="true" duration-ms="2127" started-at="2018-05-19T16:02:30Z" finished-at="2018-05-19T16:02:32Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@17d677df] output=clicked Signed]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="afterEachTestMethod" is-config="true" duration-ms="1376" started-at="2018-05-19T15:36:02Z" finished-at="2018-05-19T15:36:03Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@17d677df] output=clicked Signed]]]>
+                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb] output=clicked Signed]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-19T15:36:03Z" finished-at="2018-05-19T15:36:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="iTestResult(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="iTestResult" is-config="true" duration-ms="0" started-at="2018-05-19T15:36:03Z" finished-at="2018-05-19T15:36:03Z">
+        <test-method status="PASS" signature="afterClass(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-05-19T16:02:30Z" finished-at="2018-05-19T16:02:30Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@17d677df] output=clicked Signed]]]>
+                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb] output=clicked Signed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-19T16:02:32Z" finished-at="2018-05-19T16:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="iTestResult(org.testng.ITestResult)[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="iTestResult" is-config="true" duration-ms="0" started-at="2018-05-19T16:02:32Z" finished-at="2018-05-19T16:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginAmazon status=SUCCESS method=LoginAmazon.loginAmazon()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb] output=clicked Signed]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- iTestResult -->
-        <test-method status="PASS" signature="generateReport()[pri:0, instance:testAmazon.LoginAmazon@17d677df]" name="generateReport" is-config="true" duration-ms="109" started-at="2018-05-19T15:36:03Z" finished-at="2018-05-19T15:36:03Z">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:testAmazon.LoginAmazon@33c7e1bb]" name="generateReport" is-config="true" duration-ms="92" started-at="2018-05-19T16:02:32Z" finished-at="2018-05-19T16:02:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->

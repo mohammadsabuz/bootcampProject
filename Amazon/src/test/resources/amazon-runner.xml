@@ -13,7 +13,7 @@
 
     <test name = "Amazon">
         <classes>
-           <!-- <class name="testAmazon.LoginAmazon"/>-->
+            <class name="testAmazon.LoginAmazon"/>
         <!--    <class name="testAmazon.SearchBar"/>
             <class name="testAmazon.SearchIteams"/>
             <class name="testAmazon.Categories"/>
@@ -23,7 +23,7 @@
     <!--Commons Email-->
            <!--<class name="testAmazonCommonsEmail.TestAmazonTestFail"/>-->
     <!--Data Driven-->
-           <class name="testAmazonDataDriven.TestDataDrivenAmazonSearch"/>
+          <!-- <class name="testAmazonDataDriven.TestDataDrivenAmazonSearch"/>-->
         </classes>
     </test>
 </suite>
