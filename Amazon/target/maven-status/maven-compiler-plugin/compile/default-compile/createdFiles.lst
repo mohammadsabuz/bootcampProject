@@ -1,0 +1,9 @@
+mainAmazon\LoginToAmazon.class
+mainAmazon\CategoriesDropDown.class
+mainAmazon\OfficeProducts.class
+mainAmazon\MusicalInstruments.class
+mainAmazonDataDriven\DataDrivenAmazonSearch.class
+mainAmazon\Search.class
+mainAmazonCommonsEmail\AmazonTestFail.class
+mainAmazon\MoviesTV.class
+mainAmazon\SearchForIteams.class
